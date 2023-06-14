@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../TravellingProject"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "potfolio1"
+	}
+}
